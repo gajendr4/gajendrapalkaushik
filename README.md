@@ -17,8 +17,8 @@
 
 <!-- Feel free to reach me out on any platforms [here](https://twitter.com/i_xyz_i) -->
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gajendrapalkaushik.github.io/art-integrated-activity/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/i_xyz_i)
+[![Website](https://img.shields.io/website?label=gajendra&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gajendrapalkaushik.github.io/art-integrated-activity/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Gajendra?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/i_xyz_i)
 
 
 ### Languages and Tools:

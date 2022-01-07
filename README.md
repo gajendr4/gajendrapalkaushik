@@ -43,10 +43,10 @@ This is okay but let'... </p> <br/> <br/>
 January
 I was very new to coding, I knew a bit of HTML which I learned in school. I was watching youtube and rand... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
-<!-- 
+
 <p align="center">  
-<a href="https://blog.avneesh.tech/"><img src="https://user-images.githubusercontent.com/76690419/142756081-13352f92-8482-4a86-acbb-72dc164e8746.png" alt="Read more" width="200"/></a>
-</p> -->
+<a href="https://gajendrapalkaushik.github.io/art-integrated-activity/"><img src="https://user-images.githubusercontent.com/76690419/142756081-13352f92-8482-4a86-acbb-72dc164e8746.png" alt="Read more" width="200"/></a>
+</p>
 
 
 <!-- ## Discord Status 💻 -->
